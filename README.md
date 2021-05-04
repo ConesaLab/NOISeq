@@ -15,4 +15,4 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 BiocManager::install("NOISeq")
 ```
 
-- The information is also avariable on [Bioconductor NOISeq website](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html)
+- More information avariable on [Bioconductor NOISeq website](https://www.bioconductor.org/packages/release/bioc/html/NOISeq.html)
